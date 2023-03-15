@@ -1,0 +1,5 @@
+main.c
+a.out.dSYM
+a.out
+*.h.gch
+ft_stock_str.h
